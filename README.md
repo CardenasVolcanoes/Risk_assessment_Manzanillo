@@ -7,7 +7,7 @@ Code for Risk Assesment using PMBOK AND FUZZY LOGIC
 
 ## Descripción
 
-Este repositorio contiene un código en MATLAB que implementa el método DEMATEL (Decision Making Trial and Evaluation Laboratory) para el análisis de riesgos en logística comercial, diseñado específicamente para el capítulo *"Gestión de Riesgos: PMBOK ante Amenazas Naturales en el Puerto de Manzanillo"* del libro escrito por **Enrique Cárdenas Sánchez**, Universidad Tecnológica de Manzanillo. El código evalúa cinco riesgos clave en el contexto portuario: Retrasos, Accidentes, Clima, Condiciones de la carretera y Tráfico, proporcionando una priorización basada en su importancia total (`R+J`) e impacto neto (`R-J`).
+Este repositorio contiene un código en MATLAB que implementa el método DEMATEL (Decision Making Trial and Evaluation Laboratory) para el análisis de riesgos en logística comercial, diseñado específicamente para el capítulo *"Gestión de Riesgos: PMBOK ante Amenazas Naturales en el Puerto de Manzanillo"*  por **Enrique Cárdenas Sánchez**, Universidad Tecnológica de Manzanillo. El código evalúa cinco riesgos clave en el contexto portuario: Retrasos, Accidentes, Clima, Condiciones de la carretera y Tráfico, proporcionando una priorización basada en su importancia total (`R+J`) e impacto neto (`R-J`).
 
 ## Características
 
